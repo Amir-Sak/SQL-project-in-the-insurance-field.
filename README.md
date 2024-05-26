@@ -19,12 +19,23 @@ Table Creation:
 Create tables with appropriate data types for each field, including primary and foreign keys to enforce relationships.
 Data Insertion:
 
-Populate the database with sample data for testing and demonstration purposes, including 100 customer records and various associated records for agents, policies, claims, and payments.
+Populate the database with sample data for testing and demonstration purposes, including  customer records and various associated records for agents, policies, claims, and payments.
+
 Advanced Queries:
 
-Develop complex SQL queries to retrieve and analyze data, such as customer details with policies and agent information, total claims amounts per policy, active policies with total premium paid, and the number of policies managed by each agent.
+Develop complex SQL queries to retrieve and analyze data, such as :
+customer details with policies and agent information, total claims amounts per policy,
+active policies with total premium paid, 
+ the number of policies managed by each agent.
+
 Data Maintenance:
 
 Implement SQL statements to update and delete records as needed to emulate real-world operations within the insurance company.
+
 Conclusion:
-The Insurance Management System using SQL provides a scalable and efficient solution for managing insurance data. By leveraging relational database principles and advanced SQL queries, the system ensures accurate and reliable data management. This project highlights the importance of a well-structured database in supporting the operations of an insurance company, facilitating better customer service, efficient policy management, and informed decision-making. The successful implementation of this system can significantly enhance the overall operational efficiency and data handling capabilities of an insurance company.
+
+The Insurance Management System using SQL provides a scalable and efficient solution for managing insurance data. 
+By leveraging relational database principles and advanced SQL queries, the system ensures accurate and reliable data management. 
+This project highlights the importance of a well-structured database in supporting the operations of an insurance company, 
+facilitating better customer service, efficient policy management, and informed decision-making. 
+The successful implementation of this system can significantly enhance the overall operational efficiency and data handling capabilities of an insurance company.
